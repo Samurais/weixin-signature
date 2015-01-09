@@ -1,0 +1,16 @@
+{
+  "author": "Derek Lu <scaret.in@gmail.com>",
+  "name": "weixin-jsapi-ticket-signature",
+  "description": "Provide the Signature Of Weixin JSAPI",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scaret/weixin-jsapi-ticket-signature.git"
+  },
+  "main": "lib/signature",
+  "dependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
